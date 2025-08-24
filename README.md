@@ -28,4 +28,4 @@ Mi meta es profundizar mis conocimientos en programación y aplicar lo aprendido
 ---
 
 ## 📫 ¡Podemos conectarnos por LinkedIn!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-5BC0EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmontecchiari)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)(https://www.linkedin.com/in/dmontecchiari)
