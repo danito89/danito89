@@ -30,7 +30,6 @@ Mi meta es profundizar mis conocimientos en programación y aplicar lo aprendido
 - **IA** →  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00FFAB?style=for-the-badge&logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-15964F?style=for-the-badge&logo=github&logoColor=white)  
-Uso estas herramientas como **apoyo al aprendizaje**, sin depender de ellas.
 
 ---
 
@@ -42,4 +41,4 @@ Uso estas herramientas como **apoyo al aprendizaje**, sin depender de ellas.
 ---
 
 ## 📫 ¡Podemos conectarnos por LinkedIn!
-- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dmontecchiari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmontecchiari)
