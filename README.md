@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniel  
 
-🎓 Recientemente me recibí como **Técnico Superior en Análisis de Sistemas**.  
+🎓 **Técnico Superior en Análisis de Sistemas**.  
 💼 Laboralmente me desempeño en **liquidación de sueldos y tareas administrativas**.  
 📊 Considero tener un buen manejo de **Excel** y nociones de **Visual Basic**, junto a otras herramientas ofimáticas. 
 
