@@ -29,6 +29,7 @@ Mi meta es profundizar mis conocimientos en programación y aplicar lo aprendido
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![OpenOffice](https://img.shields.io/badge/OpenOffice-0E85CD?style=for-the-badge&logoColor=white)
 
 - **IA** →  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00FFAB?style=for-the-badge&logo=openai&logoColor=white)
